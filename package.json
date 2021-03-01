@@ -1,0 +1,28 @@
+{
+  "name": "imagineschool",
+  "version": "0.0.2",
+  "description": "Adicionado página de Miguel",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "npx live-server src/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsfoliveira/Imagineschool.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "Javascript"
+  ],
+  "author": "Juliana OLiveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsfoliveira/Imagineschool/issues"
+  },
+  "homepage": "https://github.com/jsfoliveira/Imagineschool#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}

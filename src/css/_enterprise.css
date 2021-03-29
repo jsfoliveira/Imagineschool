@@ -1,0 +1,28 @@
+.empresa__center {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  width: 100vw;
+  background-color: white;
+}
+
+.empresa__center__image {
+  place-items: end;
+  background-size: 150px;
+}
+
+.empresa__center__copy {
+  place-items: start;
+  text-align: justify;
+  margin-bottom: 0;
+  padding-right: 10rem;
+}
+
+.center__copy p {
+  padding: 4.125 8.375 4.125 8;
+}
+
+.empresa__logo {
+  display: grid;
+  place-items: center;
+  background-color: rgba(255, 198, 2, 255);
+}

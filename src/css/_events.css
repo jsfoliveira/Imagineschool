@@ -1,0 +1,24 @@
+.container__eventos {
+  display: block;
+
+  margin-left: 270px;
+}
+
+.container__image {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.eventos__image {
+  width: 400px;
+}
+
+.eventos__btn {
+  padding-top: 50px;
+}
+
+.eventos__copy {
+  padding-top: 20px;
+}

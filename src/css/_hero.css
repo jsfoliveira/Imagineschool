@@ -1,6 +1,7 @@
 .hero {
   position: relative;
   height: 34.625 rem;
+  background-color: black;
 }
 
 .hero__background {

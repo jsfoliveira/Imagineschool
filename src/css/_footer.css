@@ -72,6 +72,10 @@
   justify-self: end;
 }
 
+.footer__social li {
+  list-style-type: none;
+}
+
 .footer__social a,
 .footer__social a:visited,
 .footer__social a:actve {
